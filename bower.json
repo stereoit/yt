@@ -1,0 +1,23 @@
+{
+  "name": "yt",
+  "description": "Test for videos that scale",
+  "main": "index.js",
+  "authors": [
+    "Robert Smol <robert.smol@stereoit.com>"
+  ],
+  "license": "BSD",
+  "moduleType": [],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery.mb.ytplayer": "~2.9.11",
+    "jquery": "~2.2.0"
+  }
+}
